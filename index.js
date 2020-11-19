@@ -1,4 +1,4 @@
-const URL="https://java-spring-alexandro.herokuapp.com/validacpf?cpf="
+const URL="java-spring-alexandro.herokuapp.com/validacpf?cpf="
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
